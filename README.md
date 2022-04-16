@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**GoHoleng/GoHoleng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm Eray, I'm a software engineering student in Kocaeli University. I usually use the Python programming language and at the moment learning more about Java concepts.</p>
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=goholeng&color=green)
+&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/eraysolenkol/" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="90" height="20" alt="linkedin">
+ </a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>Languages and Tools:</p>
+
+<a href="https://www.python.org/">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="50" height="50"/>
+</a>
+<a href="https://www.java.com/">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60" height="50" />
+</a>
+<a href="https://www.sqlite.org/index.html">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="60" height="50" />
+</a>
+
+</br></br>
+<h3 style="text-align: center;">My GitHub Stats 📊</p>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=goholeng&show_icons=true&theme=radical&hide=contribs,prs" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goholeng&layout=compact&theme=radical" />
+</a>
