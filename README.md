@@ -18,7 +18,7 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60" height="50" />
 </a>
 <a href="http://www.open-std.org/jtc1/sc22/wg14/">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/440px-C_Programming_Language.svg.png" width="60" height="50" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/440px-C_Programming_Language.svg.png" width="45" height="50" />
 </a>
 <a href="https://www.sqlite.org/index.html">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="60" height="50" />
