@@ -2,7 +2,7 @@
 
 <p>I'm Eray, I'm a software engineering student in Kocaeli University. I usually use the Python programming language and at the moment learning more about Java concepts.</p>
 
-![](https://komarev.com/ghpvc/?username=goholeng&color=green)
+![](https://komarev.com/ghpvc/?username=eraysolenkol&color=green)
 &nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/eraysolenkol/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="90" height="20" alt="linkedin">
@@ -27,8 +27,8 @@
 </br></br>
 <h3 style="text-align: center;">My GitHub Stats 📊</p>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=goholeng&show_icons=true&theme=radical&hide=contribs,prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=eraysolenkol&show_icons=true&theme=radical&hide=contribs,prs" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goholeng&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraysolenkol&layout=compact&theme=radical" />
 </a> 
