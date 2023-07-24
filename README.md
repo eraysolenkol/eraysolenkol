@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I'm Eray, I'm a software engineering student in Kocaeli University. I am working with java, nodejs and mysql most of my time.</p>
+<p>I'm Eray, I'm a software engineering student in Kocaeli University. I am working with react, nodejs and mysql most of my time.</p>
 
 ![](https://komarev.com/ghpvc/?username=eraysolenkol&color=green)
 &nbsp;&nbsp;
@@ -11,8 +11,8 @@
 
 <h3>Languages and Tools:</p>
 
-<a href="https://www.java.com/">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60" height="50" />
+<a href="https://react.dev/">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="60" height="50" />
 </a>
 <a href="https://nodejs.org/en/">
   <img align="center" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"  width="55" height=60" />
